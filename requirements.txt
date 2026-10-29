@@ -1,0 +1,14 @@
+torch
+torchvision
+timm
+albumentations
+opencv-python-headless
+numpy
+pandas
+scipy
+scikit-learn
+pillow
+imagehash
+nibabel
+matplotlib
+tqdm
